@@ -16,6 +16,6 @@ Repository induk ini menampung link-link repository untuk setiap game yang sedan
 2. **Burung Terbang** - [Link Repository](https://github.com/kevinalghifari19/Burung-Terbang.git) 
 3. **Run 'n Jump!** - [Link Repository](https://github.com/kenando026/Chrome-Dino-2P-Coop.git) 
 4. **Pulau Monster** - [Link Repository](https://github.com/kevinalghifari19/Pulau-Monster1.git) 
-5. **Top Down Interactive Exploration** - [Link Repository](https://github.com/lowngly/Top-down-interactive-exploration.git) 
-6. **Game Menghindar Bom** - [Link Repository](https://github.com/kevinalghifari19/Menghindar-game.git)
+5. **Top Down Exploration** - [Link Repository](https://github.com/lowngly/Top-down-interactive-exploration.git) 
+6. **Bomb Dodger** - [Link Repository](https://github.com/kevinalghifari19/Menghindar-game.git)
 7. **Jump Game** - [Link Repository](https://github.com/kevinalghifari19/JumpGame.git)
